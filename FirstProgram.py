@@ -6,11 +6,12 @@
 def main():
   print("First Program")
   #Say hello
-  
+  print("Hello")
   #Ask for the user's name
-
+  name = input("Enter your name: ")
+  print("Hello", name )
   #Use the user's name in the program.
-
+  
   #Ask the user for their age.
 
   #Tell the user what year they were born in.
